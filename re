@@ -18,10 +18,7 @@
         "name": "next"
       }
     ],
-    "types": [],
-    "paths": {
-      "@/*": ["./src/*"]
-    }
+    "types": []
   },
   "include": [
     "next-env.d.ts",
@@ -33,3 +30,4 @@
   ],
   "exclude": ["node_modules"]
 }
+
